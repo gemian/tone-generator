@@ -1,0 +1,37 @@
+tone-generator (1.5.4+15.10.20150731-0ubuntu1) wily; urgency=medium
+
+  [ Tiago Salem Herrmann ]
+  * Use phone role for busy and call waiting tones. (LP: #1476361,
+    #1466963)
+
+ -- CI Train Bot <ci-train-bot@canonical.com>  Fri, 31 Jul 2015 19:02:55 +0000
+
+tone-generator (1.5.4+14.10.20140905-0ubuntu1) utopic; urgency=low
+
+  [ Ricardo Salveti de Araujo ]
+  * Setting up the alert role for the dtmf sound
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Fri, 05 Sep 2014 01:19:08 +0000
+
+tone-generator (1.5.4+14.10.20140814-0ubuntu1) utopic; urgency=low
+
+  [ Ricardo Salveti de Araujo ]
+  * Lowering default dtmf volume (LP: #1356428). Fixing vcs entries in
+    debian/control . (LP: #1356428)
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Thu, 14 Aug 2014 20:32:55 +0000
+
+tone-generator (1.5.4+14.10.20140731-0ubuntu1) utopic; urgency=low
+
+  [ Martti Piirainen ]
+  * Initial release. Based on https://github.com/nemomobile/tone-generator
+
+  [ Tony Espy ]
+  * Inital version of tone-generator daemon. Forked from:
+    https://github.com/nemomobile/tone-generator
+  * Add initial Debian/packaging
+
+  [ CI bot ]
+  * This is a dummy commit used to seed this package for CI.
+
+ -- Ubuntu daily release <ps-jenkins@lists.canonical.com>  Thu, 31 Jul 2014 21:08:00 +0000
