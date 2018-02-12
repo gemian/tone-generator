@@ -1,3 +1,9 @@
+tone-generator (1.5.4+gemian) stretch; urgency=medium
+
+  * Building for gemian.
+
+ -- Adam Boardman <adamboardman@gmail.com>  Mon, 12 Feb 2018 11:56:03 +0000
+
 tone-generator (1.5.4+15.10.20150731-0ubuntu1) wily; urgency=medium
 
   [ Tiago Salem Herrmann ]
